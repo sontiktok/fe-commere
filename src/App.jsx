@@ -1,5 +1,5 @@
 function App() {
-  return <>E-commerce website</>;
+  return <div className="font-bold text-lg">E-commerce website</div>;
 }
 
 export default App;
